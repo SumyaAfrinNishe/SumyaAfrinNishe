@@ -2,7 +2,7 @@
 <h3 align="center">A Web Developer from Bangladesh</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on my own<br>👯 I’m looking to collaborate on the Software Company<br>📫 How to reach me: afrinnishe99@gmail.com<br>🤝 I’m looking for help with my colleagues<br>🌱 I’m currently learning JavaScript and React<br>💬 Ask me about PHP<br>⚡ Fun fact I love to debate
+🔭 I’m currently working on my own<br>👯 I’m looking to collaborate with the Software Company<br>📫 How to reach me: afrinnishe99@gmail.com<br>🤝 I’m looking for help with my colleagues<br>🌱 I’m currently learning JavaScript and React<br>💬 Ask me about PHP<br>⚡ Fun fact I love to debate
 
 
 ## 🌐 Socials:
